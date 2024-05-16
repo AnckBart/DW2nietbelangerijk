@@ -1,0 +1,2 @@
+docker stop wimgijambetanterik
+docker rm wimgijambetanterik
