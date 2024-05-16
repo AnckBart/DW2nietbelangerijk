@@ -1,2 +1,2 @@
-docker stop wimgijambetanterik
-docker rm wimgijambetanterik
+docker stop bartcont
+docker rm bartcont
